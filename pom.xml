@@ -11,7 +11,7 @@
 	<groupId>manu.projects.user-agenda</groupId>
 	<artifactId>user-agenda</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>user-agenda</name>
 	<description>User agenda project</description>
 	<properties>
